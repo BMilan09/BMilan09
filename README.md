@@ -6,7 +6,7 @@
 <h3 align="center">A Student from Slovakia</h3>
 
 <a href="https://github.com/HiImMilan/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiImMilan&repo=CityApka" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiImMilan&bg_color=DEG,000000" />
 </a>
 <a href="https://github.com/HiImMilan/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiImMilan&repo=CityApka" />
